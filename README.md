@@ -9,8 +9,11 @@ This is a C++ console application that test four different sorting algorithms:
 The program measures the time it takes for the algorithms to sort an array 
 with 5000-40 000 elements and prints out the results to the console and
 into a textfile named 'MEASUREMENTS'.
+  
+Example output in console:
 
-![Bubblesort is slow!](C:/Users/Zakay/Desktop/bild.png "Example output")
+![bild](https://user-images.githubusercontent.com/92683177/141277262-befd6a08-be1f-4b1f-a10a-ab74c0b96f3f.png)
+
 
 ## Purpose
 
