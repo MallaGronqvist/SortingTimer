@@ -10,7 +10,7 @@ The program measures the time it takes for the algorithms to sort an array
 with 5000-40 000 elements and prints out the results to the console and
 into a textfile named 'MEASUREMENTS'.
 
-![Bubblesort is slow!](C:/Users/Zakay/Desktop/bild "Example output")
+![Bubblesort is slow!](C:/Users/Zakay/Desktop/bild.png "Example output")
 
 ## Purpose
 
